@@ -1,0 +1,4 @@
+*.exe
+*.o
+*.layout
+Makefile.win
